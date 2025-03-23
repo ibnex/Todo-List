@@ -85,10 +85,9 @@ This is a comprehensive Todo List application built with React, featuring task m
 
 This project is open source .
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request.
 
-changes
 
-                <---->
+done
